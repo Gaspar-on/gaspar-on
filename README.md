@@ -1,5 +1,17 @@
 ## Erick Gaspar 
+🔭 Atualmente estou trabalhando em .. Jogo digital
 
+🌱 Atualmente estou aprendendo .. Java Script
+
+👯 Estou procurando colaborar em .. Redes
+
+💬 Pergunte-me sobre .. Meus sonhos
+
+📫 Como entrar em contato comigo: .. (51) 9 8961-2109
+
+😄 Pronomes: .. Gaspar
+
+⚡ Curiosidade: .. O papagaio de Winston Churchill continua xingando Hitler
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
